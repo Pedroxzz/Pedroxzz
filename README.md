@@ -9,6 +9,8 @@ I'm passionate about solving problems and learning. Always open to new challenge
   <img width="380px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxzz&count_private=true&langs_count=4&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql,objective-c" />
 </div>
 
+##
+
 ## Connect with me:
 <a href="https://www.linkedin.com/in/joaopedro2117/" target="_blank">
 <img align="center" alt="pedroxz-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/linkedin.svg" style="max-width:100%;">
