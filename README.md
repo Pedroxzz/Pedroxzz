@@ -30,10 +30,16 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
 ### 📊 Status
-<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
-   <img width="380px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=Pedroxzz&show_icons=true&theme=dracula&count_private=true" />
-  <img width="380px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxzz&count_private=true&langs_count=4&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql,objective-c" />
+
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around">
+<a href="https://app.daily.dev/pedroxzz">
+      <img src="https://api.daily.dev/devcards/v2/L1XOcEfvjuCvyve6f8ahB.png?type=wide&r=psm" width="400px" alt="João Pedro Soares Oliv's Dev Card" />
+   </a>
+   <img width="400px" alt="1" src="https://github-readme-stats.vercel.app/api?username=Pedroxzz&show_icons=true&theme=dracula&count_private=true" />
+   <img width="400px" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxzz&count_private=true&langs_count=4&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql,objective-c" />
+   
 </div>
+
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
