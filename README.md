@@ -1,6 +1,4 @@
-# João Pedro S.O 🧑‍💻
-
-**`(Devops/Software Engineer)`**
+## Hey there ✌🏻
 
 My names is João Pedro, I'm from Brazil :brazil: . I've started my degree in Computer Engineering and I'm a Technical Systems Analyst that has been studying since 2018.  
 
@@ -30,13 +28,9 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
 ### 📊 Status
-
-<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: center; gap: 20px; flex-wrap: nowrap;">
-   <img style="width: 400px;" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pedroxzz&show_icons=true&theme=dracula&count_private=true" />
-   <img style="width: 400px;" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxzz&count_private=true&langs_count=4&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql,objective-c" />
-   <a href="https://app.daily.dev/pedroxzz">
-      <img src="https://api.daily.dev/devcards/v2/L1XOcEfvjuCvyve6f8ahB.png?type=wide&r=psm" style="width: 400px;" alt="Dev Card" />
-   </a>
+<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
+   <img width="380px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=Pedroxzz&show_icons=true&theme=dracula&count_private=true" />
+  <img width="380px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxzz&count_private=true&langs_count=4&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql,objective-c" />
 </div>
 
 
@@ -44,9 +38,3 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- 
- #
-
- 
-<p align="center">
-<a href="https://www.buymeacoffee.com/pedroxzz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pedroxzz&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
