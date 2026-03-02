@@ -1,40 +1,83 @@
-## Hey there ✌🏻
+# Hey there! I'm João Pedro 👋🏻
 
-My names is João Pedro, I'm from Brazil :brazil: . I've started my degree in Computer Engineering and I'm a Technical Systems Analyst that has been studying since 2018.  
-
-I'm passionate about solving problems and learning. Always open to new challenges and changes. :nerd_face::computer::guitar:		
-
----
-### 🧰 Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />           
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />       
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />   
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />  
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />          
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />            
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />              
-<br />
+**DevOps Engineer | Software Engineer | AWS | Kubernetes**  
+📍 São Paulo, Brasil · 🇧🇷
 
 ---
 
+## About Me
 
-### 📊 Status
-<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
-   <img width="380px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=Pedroxzz&show_icons=true&theme=dracula&count_private=true" />
-  <img width="380px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxzz&count_private=true&langs_count=4&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql,objective-c" />
+Passionate about technology since an early age, I'm a **DevOps Engineer at Claro Brasil** with a strong focus on cloud infrastructure, automation, and continuous delivery. Currently pursuing a **Postgraduate Degree at FIAP** while building scalable, resilient systems in production environments.
+
+I thrive on solving complex problems, embracing new challenges, and contributing to high-performance engineering teams. Always curious, always learning. 🤓💻🎸
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?style=flat&logo=oracle&logoColor=white)
+
+**Containers & Orchestration**  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+
+**CI/CD & Automation**  
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+
+**Languages & Scripting**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-%234298B8.svg?style=flat&logo=apachegroovy&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?style=flat&logo=yaml&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
+
+**AWS Services**  
+`EC2` `Lambda` `ECS` `EKS` `S3` `RDS` `DynamoDB` and more
+
+**Methodologies**  
+`Scrum` `Kanban` `SAFe` `Microservices` `Serverless`
+
+---
+
+## 💼 Experience
+
+**DevOps Engineer I @ Claro Brasil** *(May 2024 – Present)*  
+- Source code management with GitLab & GitHub  
+- CI/CD pipeline design using Jenkins & GitHub Actions (shared libraries, Groovy, YAML)  
+- Container orchestration with Docker & Kubernetes  
+- Multi-cloud experience: AWS, GCP, Azure, Oracle Cloud  
+- System monitoring for performance and availability  
+- Agile project management (Scrum, Kanban, SAFe)  
+
+---
+
+## 🎓 Education
+
+- **Postgraduate Degree** — FIAP *(2025 – Present)*  
+- **Computer Engineering** — In progress
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![João Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedroxzz&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxzz&layout=compact&theme=dark&hide_border=true)
+
 </div>
 
+---
 
+## 📬 Let's Connect
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroxzz)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
+
+*"Always open to new challenges, collaboration, and opportunities to grow through technology."*
